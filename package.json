@@ -1,0 +1,24 @@
+{
+  "name": "gsap-nextjs-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "gsap": "^3.7.1",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "greensock",
+    "next.js",
+    "react",
+    "gsap"
+  ],
+  "description": "Starter template for GSAP and Next.js"
+}
